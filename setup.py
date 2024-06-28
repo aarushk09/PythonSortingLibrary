@@ -6,9 +6,9 @@ setup(
     description='A Python library for sorting algorithms',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='Your Name',
-    author_email='your.email@example.com',
-    url='https://github.com/yourusername/pythonsort',
+    author='Aarush Kute',
+    author_email='aarushkute8@gmail.com',
+    url='https://github.com/aarushk09/PythonSortingLibrary',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
