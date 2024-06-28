@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='pythonsort',
+    name='pythonalgosort',
     version='0.1.0',
     description='A Python library for sorting algorithms',
     long_description=open('README.md').read(),
